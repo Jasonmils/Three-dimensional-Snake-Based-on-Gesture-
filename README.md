@@ -9,3 +9,5 @@ We use PYNQ tp control the 3D Cube (8*8*8 RGB cube),and furthermore create a 'Sn
 #Gesture Recognition#
 We Use Paj7620 as our gesture recognition module to identify 6 gestures 
 including'up,down,left,right,forward and backward'
+
+![image](https://github.com/Jasonmils/Three-dimensional-Snake-Based-on-Gesture-/blob/master/IMG_5792.JPG)
