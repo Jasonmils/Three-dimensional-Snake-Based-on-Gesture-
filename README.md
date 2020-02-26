@@ -1,4 +1,4 @@
-# Three-dimensional-Snake-Based-on-Gesture-
+# Three-dimensional-Snake-Based-on-Gesture-Recognition
 We Use Gesture recognition module Paj7620 and Xilinx PYNQ z2 to visualize the 3D 'Snake' Game
 
 The ZIP file consists of 3 main verilog file of the vivado project due to the size of project files;
